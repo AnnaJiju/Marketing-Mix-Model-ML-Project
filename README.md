@@ -35,8 +35,6 @@ The project compares several machine learning models using time-series cross-val
 ✅ Random Forest Regressor  
 ✅ Gradient Boosting Regressor  
 
-(You can also extend this by adding models like XGBoost and LightGBM.)
-
 ---
 
 ## 📊 Evaluation Metrics
