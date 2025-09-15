@@ -61,3 +61,21 @@ Additionally, residuals are visualized to check prediction accuracy, and feature
 - Google Colab – Execution environment
 
 ---
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/marketing-model.git
+cd marketing-model
+
+###2. Install dependencies
+We recommend using a virtual environment.
+pip install -r requirements.txt
+
+3. Run the notebook
+Launch Jupyter and open the notebook:
+jupyter notebook marketing.ipynb
+
+4.
